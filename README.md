@@ -84,6 +84,9 @@ print(rhino_encrypt("RHINO"))  # Output: 63 10 12 37 42
 
 ---
 
+# Also, gl on decrypting since I never rlly made a decryptor.
+---
+
 ## 📝 License
 
 MIT License.  
