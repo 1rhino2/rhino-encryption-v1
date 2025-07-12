@@ -56,12 +56,7 @@ Or, pass your message directly:
 python rhino_encryption_v1.py "HELLO WORLD"
 ```
 
-### As a Python Module
 
-```python
-from rhino_encryption_v1 import rhino_encrypt
-print(rhino_encrypt("RHINO"))  # Output: 74 21 23 48 53
-```
 
 ---
 
